@@ -1,14 +1,15 @@
-Hi 👋, I'm Richardzzz
+# Hi 👋, I'm Richardzzz
 
-A passionate Java developer
+### A passionate Java developer
 
-- 🔭 I'm currently working on 后端开发 LLM企业级应用
+- 🔭 I'm currently working on **后端开发 LLM企业级应用**
 
-- 🌱 I'm currently learning 机器学习 LLM Agent
+- 🌱 I'm currently learning **机器学习 LLM Agent**
 
-- 💬 Ask me about 微服务后端开发
+- 💬 Ask me about **微服务后端开发**
 
-- 📫 How to reach me Wen314016548@163.com
+- 📫 How to reach me **Wen314016548@163.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
