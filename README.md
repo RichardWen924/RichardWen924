@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardWen924&label=Profile views&color=0e75b6&style=flat" alt="RichardWen924" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardWen924" alt="RichardWen924" /></a> </p>
-
 - 🔭 I'm currently working on **后端开发 LLM企业级应用**
 
 - 🌱 I'm currently learning **机器学习 LLM Agent**
